@@ -51,7 +51,11 @@ int main(void)
 	 while(1)
 	 {
 	 UART_SendChar('C');
+	 UART_SendChar('h');
 	     //UCA0TXBUF='A';
 	     __delay_cycles(5000000);
 	 }
 }
+
+
+
