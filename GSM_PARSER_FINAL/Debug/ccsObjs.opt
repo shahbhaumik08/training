@@ -1,0 +1,11 @@
+"./CIRCULAR_BUFF.obj"
+"./CLOCK_CONF.obj"
+"./DELAY.obj"
+"./FSM.obj"
+"./GSM_ON.obj"
+"./PARSING.obj"
+"./UART.obj"
+"./main.obj"
+"../lnk_msp430fr2633.cmd"
+-llibmath.a
+-llibc.a
